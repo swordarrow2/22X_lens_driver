@@ -1,3 +1,8 @@
 {
-    "C_Cpp.clang_format_fallbackStyle": "LLVM"
+    "C_Cpp.clang_format_fallbackStyle": "LLVM",
+    "files.associations": {
+        "system_config.h": "c",
+        "stc8h.h": "c",
+        "STC8H.H": "cpp"
+    }
 }

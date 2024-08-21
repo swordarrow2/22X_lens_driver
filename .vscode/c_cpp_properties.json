@@ -4,7 +4,7 @@
             "name": "Target 1",
             "includePath": [
                 "C:\\Keil_v5\\C51\\INC",
-                "d:\\develop\\51mcu\\镜头驱动"
+                "d:\\develop\\51mcu\\22X_lens_driver"
             ],
             "defines": [
                 "__C51__",
